@@ -17,3 +17,6 @@ require("channels")
 // const imagePath = (name) => images(name, true)
 
 import "controllers"
+
+// Tailwind
+import '../css/application.css'
