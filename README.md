@@ -1,24 +1,43 @@
-# README
+# Rails Tailwind Template
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Rails v6.0.0
+https://rubyonrails.org/
 
-Things you may want to cover:
+- Ruby v2.6.4
+https://www.ruby-lang.org/en/
 
-* Ruby version
+- Tailwind v1.1.2
+http://tailwindcss.com
 
-* System dependencies
+- Purge CSS v1.3.0
+https://github.com/FullHuman/purgecss
 
-* Configuration
+# Usage
 
-* Database creation
+1. Create a new repository with this as the template.
 
-* Database initialization
+2. `bundle install`
 
-* How to run the test suite
+3. `yarn install --check-files`
 
-* Services (job queues, cache servers, search engines, etc.)
+4. `rails db:create db:migrate`
 
-* Deployment instructions
+## Coming up
 
-* ...
+- Devise
+https://github.com/plataformatec/devise
+
+- Stripe
+https://stripe.com
+
+- Meta tags
+
+# Contact
+
+Notice anything? Any comments or suggestions?
+
+Twitter: [@JalisoCSP](https://twitter.com/JalisoCSP)
+
+Github: [JalisoCSP](https://github.com/JalisoCSP)
+
+Website: [https://craigpetterson.co.uk](https://craigpetterson.co.uk)
