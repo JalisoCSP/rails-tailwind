@@ -12,6 +12,9 @@ http://tailwindcss.com
 - Purge CSS v1.3.0
 https://github.com/FullHuman/purgecss
 
+- Devise v4.7.1
+https://github.com/plataformatec/devise
+
 # Usage
 
 1. Create a new repository with this as the template.
@@ -23,9 +26,6 @@ https://github.com/FullHuman/purgecss
 4. `rails db:create db:migrate`
 
 ## Coming up
-
-- Devise
-https://github.com/plataformatec/devise
 
 - Stripe
 https://stripe.com
