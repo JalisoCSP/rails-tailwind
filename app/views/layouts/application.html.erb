@@ -10,7 +10,11 @@
   </head>
 
   <body>
-    <%= render "layouts/notice" %>
-    <%= yield %>
+    <%= render "layouts/header" %>
+    <div class="flex flex-wrap p-8">
+      <%= render "layouts/notice" %>
+      <%= yield %>
+    </div>
+    <%= render "layouts/footer" %>
   </body>
 </html>
