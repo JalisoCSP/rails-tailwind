@@ -1,6 +1,6 @@
 # Rails Tailwind Template
 
-- Rails v6.0.0
+- Rails v6.0.1
 https://rubyonrails.org/
 
 - Ruby v2.6.4
