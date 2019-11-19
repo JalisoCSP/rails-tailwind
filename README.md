@@ -3,11 +3,11 @@
 - Rails v6.0.1
 https://rubyonrails.org/
 
-- Ruby v2.6.4
+- Ruby v2.6.5
 https://www.ruby-lang.org/en/
 
 - Tailwind v1.1.2
-http://tailwindcss.com
+https://tailwindcss.com
 
 - Purge CSS v1.3.0
 https://github.com/FullHuman/purgecss
