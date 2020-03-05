@@ -6,7 +6,7 @@ https://rubyonrails.org/
 - Ruby v2.6.5
 https://www.ruby-lang.org/en/
 
-- Tailwind v1.1.2
+- Tailwind v1.1.4
 https://tailwindcss.com
 
 - Purge CSS v1.3.0
